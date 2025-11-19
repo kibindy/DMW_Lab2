@@ -1,0 +1,380 @@
+{
+    "status": "ok",
+    "recordCount": 102946,
+    "startTimestamp": "2025-11-19T02:08:24Z",
+    "endTimestamp": "2025-11-19T02:08:54Z",
+    "timeTaken": 29804,
+    "data": [{
+        "isbn": 9780028633879,
+        "isbnHyphenated": "978-0-02-863387-9",
+        "workId": 359570,
+        "title": "The Complete Idiot's Guide to Learning Yiddish",
+        "author": "Rabbi Benjamin Blech",
+        "coverUrl": "https://images.penguinrandomhouse.com/cover/9780028633879",
+        "format": {
+            "code": "TR",
+            "description": "Trade Paperback"
+        },
+        "subformat": null,
+        "binding": null,
+        "editionTarget": {
+            "code": null,
+            "description": null
+        },
+        "trim": "7-3/8 x 9-1/8",
+        "edition": "0",
+        "onSaleDate": "2000-01-09",
+        "exportOnSaleDate": null,
+        "price": 24.99,
+        "exportPrice": null,
+        "globalDivision": null,
+        "publishingDivision": "DK.",
+        "imprint": "DK",
+        "publishingStatus": "IP",
+        "series": null,
+        "language": "E",
+        "seq": null,
+        "titleBlock": null,
+        "description": "You're not idiot, of course. You can serve up a mean s'il vous plait in a French bistro, live la vida loca for a night of margaritas, and manage a sayonara! after sushi, sake, and karaoke. But when it comes to throwing around a little Yiddish, you feel like a total nebbish! Don't throw your hands in a helpless \"Oy, vey\" just yet! The Complete Idiot's Guide to Learning Yiddish is your guide to this unique tongue, whether you're tackling rules of grammar or just throwing around some key phrases so you sound a little less goyish. In this Complete Idiot's Guide you get a fascinating explanation of how and why Yiddish developed, an easy introduction to the Yiddish alphabet, as well as the distinctive sound of Yiddish, and all the Yiddish you'll need for communicating with family and friends or for bargain-hunting on New York's Lower East Side. This book contains a treasury of Yiddish words and phrases for every occasion.",
+        "authors": [{
+            "code": "309012",
+            "description": "Rabbi Benjamin Blech"
+        }]
+    }, {
+        "isbn": 9780130575715,
+        "isbnHyphenated": "978-0-13-057571-5",
+        "workId": 350672,
+        "title": "Heinerman's Encyclopedia of Healing Juices",
+        "author": "John Heinerman",
+        "coverUrl": "https://images.penguinrandomhouse.com/cover/9780130575715",
+        "format": {
+            "code": "TR",
+            "description": "Trade Paperback"
+        },
+        "subformat": null,
+        "binding": null,
+        "editionTarget": {
+            "code": null,
+            "description": null
+        },
+        "trim": "6 x 9",
+        "edition": "0",
+        "onSaleDate": "1994-04-01",
+        "exportOnSaleDate": null,
+        "price": 24.00,
+        "exportPrice": null,
+        "globalDivision": null,
+        "publishingDivision": "Penguin Adult HC/TR",
+        "imprint": "Prentice Hall Press",
+        "publishingStatus": "IP",
+        "series": null,
+        "language": "E",
+        "seq": null,
+        "titleBlock": null,
+        "description": "This publication shows how raw, natural juices can help maximize health and boost the immune system. A total of 83 juices are discussed.",
+        "authors": [{
+            "code": "12511",
+            "description": "John Heinerman"
+        }]
+    }, {
+        "isbn": 9780131088382,
+        "isbnHyphenated": "978-0-13-108838-2",
+        "workId": 350688,
+        "title": "Super Healing Foods",
+        "author": "Frances Sheridan Goulart",
+        "coverUrl": "https://images.penguinrandomhouse.com/cover/9780131088382",
+        "format": {
+            "code": "TR",
+            "description": "Trade Paperback"
+        },
+        "subformat": null,
+        "binding": null,
+        "editionTarget": {
+            "code": null,
+            "description": null
+        },
+        "trim": "6 x 9",
+        "edition": "0",
+        "onSaleDate": "1995-09-01",
+        "exportOnSaleDate": null,
+        "price": 30.00,
+        "exportPrice": null,
+        "globalDivision": null,
+        "publishingDivision": "Penguin Adult HC/TR",
+        "imprint": "Prentice Hall Press",
+        "publishingStatus": "IP",
+        "series": null,
+        "language": "E",
+        "seq": null,
+        "titleBlock": null,
+        "description": "From apples (sunburn relief) and avocados (cardiovascular health) to tomatoes (fighting tumors) and walnuts (relief for cold symptoms) here&rsquo;s an incredible &ldquo;pharmacopoeia&rdquo; of foods that puts real curative power in your hands for today&rsquo;s most common health conditions.<br> &#160;<br> These healing foods&mdash;all of which can be found at your local supermarket or health food store&mdash;have been proven effective in relieving scores of ailments. They&rsquo;re simple, safe, inexpensive, and easy to use to treat or prevent health problems.<br> &#160;<br> This health-giving guide also gives you dozens of simple-to-prepare recipes, menus, and nutrition plans that show you how to put super healing nutrition into action, a comprehensive chart of the body&rsquo;s 10 target healing zones to help you zero in on the exact foods and recipes that could help a certain health condition, and innovative nutrition and support exercises to help you stay healthy and energetic.<br> &#160;<br> In short, this is your total guide to using the incredible power of super healing foods to relieve whatever ails you and gain better health!",
+        "authors": [{
+            "code": "233283",
+            "description": "Frances Sheridan Goulart"
+        }]
+    }, {
+        "isbn": 9780131872783,
+        "isbnHyphenated": "978-0-13-187278-3",
+        "workId": 299263,
+        "title": "A Brief Tour of Human Consciousness",
+        "author": "V.S. Ramachandran",
+        "coverUrl": "https://images.penguinrandomhouse.com/cover/9780131872783",
+        "format": {
+            "code": "TR",
+            "description": "Trade Paperback"
+        },
+        "subformat": null,
+        "binding": null,
+        "editionTarget": {
+            "code": null,
+            "description": null
+        },
+        "trim": "5-3/8 x 8-1/4",
+        "edition": "0",
+        "onSaleDate": "2005-07-26",
+        "exportOnSaleDate": null,
+        "price": 24.00,
+        "exportPrice": null,
+        "globalDivision": null,
+        "publishingDivision": "Penguin Adult HC/TR",
+        "imprint": "Plume",
+        "publishingStatus": "IP",
+        "series": null,
+        "language": "E",
+        "seq": null,
+        "titleBlock": null,
+        "description": "How can some people come to believe that their poodle is an impostor?  Or see colors in numbers? Internationally acclaimed neuroscientist V.S. Ramachandran now shares his unique insight into human consciousness in an entertaining, inspiring, and intellectually dazzling brief tour of the ultimate frontier&mdash;the thoughts in our heads.<p><i>A Brief Tour of Human Consciousness</i> is made up of five investigations of the greatest mysteries of the brain, including:<br><br>-how amputees feel pain in limbs they no longer have, which introduces the great revolution of our age: neuroscience<br>-the way what we see determines our thoughts, and the counterintuitive point that believing is in fact seeing<br>-why, the world over, cultures have fundamentally similar notions of what is attractive<br>-the bizarre world of synesthetes, people who see colors in numbers, textures in smells, sounds in sights, and flavors in sounds<br>-the implications of the revolution in our understanding of consciousness, to make a fascinating argument about our essential sense of self and its distributed nature</p>",
+        "authors": [{
+            "code": "2148674",
+            "description": "V. S. Ramachandran"
+        }]
+    }, {
+        "isbn": 9780132092302,
+        "isbnHyphenated": "978-0-13-209230-2",
+        "workId": 353186,
+        "title": "Heinerman's New Encyclopedia of Fruits & Vegetables",
+        "author": "John Heinerman",
+        "coverUrl": "https://images.penguinrandomhouse.com/cover/9780132092302",
+        "format": {
+            "code": "TR",
+            "description": "Trade Paperback"
+        },
+        "subformat": null,
+        "binding": null,
+        "editionTarget": {
+            "code": null,
+            "description": null
+        },
+        "trim": "6 x 9",
+        "edition": "0",
+        "onSaleDate": "1995-08-01",
+        "exportOnSaleDate": null,
+        "price": 30.00,
+        "exportPrice": null,
+        "globalDivision": null,
+        "publishingDivision": "Penguin Adult HC/TR",
+        "imprint": "Prentice Hall Press",
+        "publishingStatus": "IP",
+        "series": null,
+        "language": "E",
+        "seq": null,
+        "titleBlock": null,
+        "description": "This book is your total guide to using the incredible healing power of fruits and vegetables to relieve whatever ails you and gain better health.<br> &#160;<br> More than 300,000 people have discovered the incredible healing power of common fruits and vegetables in John Heinerman&rsquo;s bestselling <i>Heinerman&rsquo;s Encyclopedia of Fruits, Vegetables, and Herbs</i>. Now, the noted medical anthropologist has completely revised and updated this resource to include over 85 new remedies and 62 new recipes.<br> &#160;<br> You&rsquo;ll discover hundreds of healing foods&mdash;all of which can be found at your local supermarket or health food store&mdash;that have been proven effective in relieving scores of ailments. They&rsquo;re simple, safe, inexpensive, and easy to use, to treat or prevent health problems from Acne to Alzheimer&rsquo;s.",
+        "authors": [{
+            "code": "12511",
+            "description": "John Heinerman"
+        }]
+    }, {
+        "isbn": 9780132341707,
+        "isbnHyphenated": "978-0-13-234170-7",
+        "workId": 350656,
+        "title": "101 Biggest Mistakes Managers Make and How to Avoid Them",
+        "author": "Mary Albright and Clay Carr",
+        "coverUrl": "https://images.penguinrandomhouse.com/cover/9780132341707",
+        "format": {
+            "code": "TR",
+            "description": "Trade Paperback"
+        },
+        "subformat": null,
+        "binding": null,
+        "editionTarget": {
+            "code": null,
+            "description": null
+        },
+        "trim": "7 x 9-1/4",
+        "edition": "0",
+        "onSaleDate": "1997-01-01",
+        "exportOnSaleDate": null,
+        "price": 24.00,
+        "exportPrice": null,
+        "globalDivision": null,
+        "publishingDivision": "Penguin Adult HC/TR",
+        "imprint": "Prentice Hall Press",
+        "publishingStatus": "IP",
+        "series": null,
+        "language": "E",
+        "seq": null,
+        "titleBlock": null,
+        "description": "Supervisory training teaches you about a lot of things you should do, such as how to prepare a performance appraisal, conduct a meeting, divide up work, or manage your time. What it usually leaves out are all the things you shouldn&rsquo;t do&mdash;the subtle and not-so-subtle mistakes in managing people that could haunt you the rest of your career.<br> &#160;<br> Now there&rsquo;s a comprehensive, instant-answer guide to avoiding over 100 of the most common mistakes made by managers that no business course ever told you about. This valuable career-enhancing guide details where the pitfalls lie, so you can avoid them more easily, as well as how to recover from a mistake quickly and prevent it from happening again. <br> &#160;<br> You&rsquo;ll discover how to avoid such management blunders as:<br> &bull; Not having clear objectives<br>&bull;&#160;Delegating the wrong jobs<br>&bull;&#160;Being defensive to criticism<br>&bull;&#160;Ignoring office politics<br>&bull;&#160;Taking on risky projects with little payoff<br>&bull;&#160;Solving performance problems with new technology<br>&bull;&#160;Getting caught up in the rumor mill<br>&bull;&#160;Letting other managers steal away your staff<br>&bull;&#160;And much more!<br> &#160;<br> Armed with this guide, you don&rsquo;t have to complete an entire managerial career realizing your mistakes only after you had to suffer the consequences. You&rsquo;ll know exactly what to do and say in virtually any delicate business situation . . . and boost your success in the process.",
+        "authors": [{
+            "code": "253426",
+            "description": "Mary Albright"
+        }, {
+            "code": "2030984",
+            "description": "Clay Carr"
+        }]
+    }, {
+        "isbn": 9780132428927,
+        "isbnHyphenated": "978-0-13-242892-7",
+        "workId": 350658,
+        "title": "How to Eat Away Arthritis",
+        "author": "Lauri M. Aesoph",
+        "coverUrl": "https://images.penguinrandomhouse.com/cover/9780132428927",
+        "format": {
+            "code": "TR",
+            "description": "Trade Paperback"
+        },
+        "subformat": null,
+        "binding": null,
+        "editionTarget": {
+            "code": null,
+            "description": null
+        },
+        "trim": "6 x 9",
+        "edition": "0",
+        "onSaleDate": "1996-10-01",
+        "exportOnSaleDate": null,
+        "price": 24.00,
+        "exportPrice": null,
+        "globalDivision": null,
+        "publishingDivision": "Penguin Adult HC/TR",
+        "imprint": "Prentice Hall Press",
+        "publishingStatus": "IP",
+        "series": null,
+        "language": "E",
+        "seq": null,
+        "titleBlock": null,
+        "description": "This completely revised and updated version of the perennial bestseller offers you a detailed, easy-to-follow program for treating arthritis at home, based on a simple diet of health-building foods. With this book, you can relieve or even <i>reverse</i> most cases of osteoarthritis or rheumatoid arthritis without expensive drugs or equipment. The key is to substitute \"restorative foods\" for certain inflammation-generating foods, tap your inner well-springs of good health, and practice easy-to-do exercises for increased flexibility.<br><br>You will discover: <br><br>&#160;&#160;&#160;&bull;&#160; The incredible arthritis-healing and health-renewing powers of restorative foods <br>&#160;&#160;&#160;&bull;&#160; How to maximize your chances for complete recovery of arthritis <br>&#160;&#160;&#160;&bull;&#160; Aspirin-free ways to reduce pain and inflammation <br>&#160;&#160;&#160;&bull;&#160; \"Stressor foods\" to avoid that block the healing of arthritis <br>&#160;&#160;&#160;&bull;&#160; Simple tests to help you pinpoint the foods that can aggravate your arthritis <br>&#160;&#160;&#160;&bull;&#160; Easy diet changes that eliminate joint inflammation, gout, migraines, osteoarthritis, lupus, and more <br><br>No matter how old you are or how long you've suffered from arthritis, with this program you can help overcome arthritis and free yourself of debilitating pain in just a few weeks.",
+        "authors": [{
+            "code": "2318143",
+            "description": "Lauri M. Aesoph"
+        }]
+    }, {
+        "isbn": 9780132638494,
+        "isbnHyphenated": "978-0-13-263849-4",
+        "workId": 350621,
+        "title": "Psycho-Cybernetics 2000",
+        "author": "Maxwell Maltz Foundation",
+        "coverUrl": "https://images.penguinrandomhouse.com/cover/9780132638494",
+        "format": {
+            "code": "TR",
+            "description": "Trade Paperback"
+        },
+        "subformat": null,
+        "binding": null,
+        "editionTarget": {
+            "code": null,
+            "description": null
+        },
+        "trim": "6 x 9",
+        "edition": "0",
+        "onSaleDate": "1996-09-01",
+        "exportOnSaleDate": null,
+        "price": 16.95,
+        "exportPrice": null,
+        "globalDivision": null,
+        "publishingDivision": "Penguin Adult HC/TR",
+        "imprint": "Prentice Hall Press",
+        "publishingStatus": "IP",
+        "series": "PCZ",
+        "language": "E",
+        "seq": null,
+        "titleBlock": null,
+        "description": "<b>Change your life for the better with this bestselling classic guide to harnessing the power of your mind to improve your self-image and achieve your goals.</b><br><br>What if what&rsquo;s stopping you from reaching your potential are the limits you&rsquo;ve set for yourself? Whether you&rsquo;re preparing for a career change, looking to build your confidence, or simply seeking to overcome obstacles in your day-to-day routine, <i>Psycho-Cybernetics 2000</i> teaches you the essential techniques and exercises to develop a positive mindset and tackle the challenges in your life. <br><br>With this practical how-to program, Maxwell Maltz&rsquo;s breakthrough principles on changing your mind will help you change your self-image, confront imposter syndrome, and embrace a positive attitude, leading to higher satisfaction and self-esteem. By visualizing the future you want using this timeless, science-backed method, you will learn to set attainable goals and achieve success, enabling you to unlock your potential and lead a more fulfilling life.",
+        "authors": [{
+            "code": "2050982",
+            "description": "Maxwell Maltz Foundation"
+        }]
+    }, {
+        "isbn": 9780133036039,
+        "isbnHyphenated": "978-0-13-303603-9",
+        "workId": 350692,
+        "title": "Brain Builders!",
+        "author": "Richard Leviton",
+        "coverUrl": "https://images.penguinrandomhouse.com/cover/9780133036039",
+        "format": {
+            "code": "TR",
+            "description": "Trade Paperback"
+        },
+        "subformat": null,
+        "binding": null,
+        "editionTarget": {
+            "code": null,
+            "description": null
+        },
+        "trim": "6 x 9",
+        "edition": "0",
+        "onSaleDate": "1995-09-01",
+        "exportOnSaleDate": null,
+        "price": 20.00,
+        "exportPrice": null,
+        "globalDivision": null,
+        "publishingDivision": "Penguin Adult HC/TR",
+        "imprint": "Prentice Hall Press",
+        "publishingStatus": "IP",
+        "series": null,
+        "language": "E",
+        "seq": null,
+        "titleBlock": null,
+        "description": "Hundreds of ways to preserve, restore and improve the brain's potential. These all-natural techniques help boost brain power and prevent mental aging. They represent the latest developments in scores of disciplines, including meditation, yoga, nutrition, vitamins, herbs and more.",
+        "authors": [{
+            "code": "243196",
+            "description": "Richard Leviton"
+        }]
+    }, {
+        "isbn": 9780133102109,
+        "isbnHyphenated": "978-0-13-310210-9",
+        "workId": 353576,
+        "title": "Heinerman's Encyclopedia of Healing Herbs & Spices",
+        "author": "John Heinerman",
+        "coverUrl": "https://images.penguinrandomhouse.com/cover/9780133102109",
+        "format": {
+            "code": "TR",
+            "description": "Trade Paperback"
+        },
+        "subformat": null,
+        "binding": null,
+        "editionTarget": {
+            "code": null,
+            "description": null
+        },
+        "trim": "6 x 9",
+        "edition": "0",
+        "onSaleDate": "1995-12-01",
+        "exportOnSaleDate": null,
+        "price": 30.00,
+        "exportPrice": null,
+        "globalDivision": null,
+        "publishingDivision": "Penguin Adult HC/TR",
+        "imprint": "Prentice Hall Press",
+        "publishingStatus": "IP",
+        "series": null,
+        "language": "E",
+        "seq": null,
+        "titleBlock": null,
+        "description": "Renowned medical expert John Heinerman, Ph.D. shows you how to harness the amazing healing power of common herbs and spices to reverse illness and restore vitality.<br> &#160;<br> From agave for stomach problems and allspice for toothaches, to yohimbine to rejuvenate your sex life and yucca for arthritis relief, you&rsquo;ll discover hundreds of all natural remedies for over 100 health conditions.<br> &#160;<br> Best of all, these herbs and spices are completely safe, effective, and readily available from your local grocer or health food store. In fact, you may find many of them in your kitchen cabinets right now.<br> &#160;<br>The Encyclopedia also includes scores of intriguing case histories that illustrate the many uses of these healers in a variety of cultures through the ages, listings of herbs and spices and the conditions they offer relief from, and step-by-step recommendations for using these natural remedies most effectively.<br> &#160;<br> &ldquo;Anyone who understands nature need never be sick,&rdquo; says John Heinerman, and this book is living proof of it!",
+        "authors": [{
+            "code": "12511",
+            "description": "John Heinerman"
+        }]
+    }],
+    "error": null,
+    "params": {
+        "formatFamily": "Paperback",
+        "showPublishedBooks": true,
+        "clientGroup": "Public",
+        "showFlapCopy": true,
+        "domain": "PRH.US"
+    },
+    "requestedMethod": "getTitleViewIstca"
+}
